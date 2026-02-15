@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-chat-bubble-theme-plugin",
+	"name": "obsidian-chat-bubble-theme",
 	"version": "1.0.0",
 	"description": "Warm theme with chat callout outline injection for Obsidian",
 	"main": "main.js",

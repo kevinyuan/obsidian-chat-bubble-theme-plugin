@@ -1,6 +1,6 @@
 {
-  "id": "chat-bubble-theme-plugin",
-  "name": "Chat Bubble Theme Plugin",
+  "id": "chat-bubble-theme",
+  "name": "Chat Bubble Theme",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
   "description": "Warm theme with chat callout outline injection. Bundled as a plugin because outline injection requires JavaScript, which pure CSS themes cannot provide.",
